@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+body{
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+}
+
+tr,th,td,table{
+    border: 2px solid blue;
+    padding: 2px;
+    margin: auto;
+}
+
+.fit{
+    background-color: #e0ffff;
+}
+
+.public{
+    background-color: #f0fff0;
+}
+
+.lane{
+    background-color: #add8ef;
+}
+
+.parent{
+    background-color: #ffffe0;
+}
+
+.club{
+    background-color: #b0c4de;
+}

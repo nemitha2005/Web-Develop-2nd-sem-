@@ -1,0 +1,26 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+}
+
+h1{
+    padding: 80px 0;
+    height: 2px;
+    background-color: darkturquoise;
+    text-align: center;
+}
+
+h4{
+    padding: 5px 0;
+    background-color: paleturquoise;
+}
+
+h3{
+    text-align: center;
+}
+
+.description{
+    font-size: 20px;
+    font-weight: bold;
+}
